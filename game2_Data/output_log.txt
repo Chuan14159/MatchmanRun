@@ -1,0 +1,70 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD RADEON R9 M395X (ID=0x6920)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   15.301.2101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.188 seconds
+Platform assembly: D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Winter 2017\ICS 161\Game 2\game2_Data\Managed\System.dll (this message is harmless)
+desktop: 5120x2880 60Hz; virtual: 5120x2880 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 1.210505 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.644292 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.321915 ms (FindLiveObjects: 0.027848 ms CreateObjectMapping: 0.025293 ms MarkObjects: 0.256255 ms  DeleteObjects: 0.012007 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614195 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 569.
+Total: 0.357939 ms (FindLiveObjects: 0.034746 ms CreateObjectMapping: 0.032191 ms MarkObjects: 0.281548 ms  DeleteObjects: 0.008942 ms)
+
+UnloadTime: 0.343632 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 569.
+Total: 0.161979 ms (FindLiveObjects: 0.017117 ms CreateObjectMapping: 0.011241 ms MarkObjects: 0.131321 ms  DeleteObjects: 0.002299 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.392686 ms
+
+Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.227896 ms (FindLiveObjects: 0.015329 ms CreateObjectMapping: 0.010730 ms MarkObjects: 0.119824 ms  DeleteObjects: 0.081756 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.220486 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.145373 ms (FindLiveObjects: 0.011752 ms CreateObjectMapping: 0.010219 ms MarkObjects: 0.118035 ms  DeleteObjects: 0.005365 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1dec -> priority: 1 
+  Thread -> id: 4170 -> priority: 1 
